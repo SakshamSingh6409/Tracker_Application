@@ -205,10 +205,6 @@ All core functions have been tested for:
 - ✓ Backup and restore functionality
 - ✓ User input validation
 
-## Screenshots
-
-[Screenshots showing the program interface and sample operations would be included here during deployment]
-
 ## Contributing
 
 To contribute to this project:
